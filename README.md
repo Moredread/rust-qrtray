@@ -6,7 +6,7 @@ qrtray
 Not functional yet.
 
 License
-=======
+-------
 
 qrtray, a clipboard content to QR code converter
 
