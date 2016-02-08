@@ -1,6 +1,8 @@
 qrtray
 ======
 
+[![Build Status](https://travis-ci.org/Moredread/rust-voronoi.svg?branch=master)](https://travis-ci.org/Moredread/rust-voronoi)
+
 Not functional yet.
 
 License
