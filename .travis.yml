@@ -16,6 +16,7 @@ addons:
       - libcurl4-openssl-dev
       - libelf-dev
       - libdw-dev
+      - libgtk-3-dev
 
 sudo: false
 
