@@ -4,7 +4,5 @@ version = "0.1.0"
 authors = ["Andre-Patrick Bubel <code@andre-bubel.de>"]
 
 [dependencies]
-gtk = "^0"
-
-[dependencies.qrcode]
-git = "https://github.com/kennytm/qrcode-rust"
+gtk = "*"
+qrcode = { git = "https://github.com/kennytm/qrcode-rust" }
