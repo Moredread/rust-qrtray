@@ -1,7 +1,7 @@
 qrtray
 ======
 
-[![Build Status](https://travis-ci.org/Moredread/rust-voronoi.svg?branch=master)](https://travis-ci.org/Moredread/rust-voronoi)
+[![Build Status](https://travis-ci.org/Moredread/qrtray.svg?branch=master)](https://travis-ci.org/Moredread/qrtray)
 
 Not functional yet.
 
