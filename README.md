@@ -3,7 +3,9 @@ qrtray
 
 [![Build Status](https://travis-ci.org/Moredread/qrtray.svg?branch=master)](https://travis-ci.org/Moredread/qrtray)
 
-Not functional yet.
+And already on hold. -.- The rust GTK bindings are still missing clipboard
+support. So I'll try to write a minimal prototype in Python first.
+
 
 License
 -------
